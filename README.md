@@ -1,1 +1,2 @@
-# CS383-Pong
+# Pong
+Quick Start
